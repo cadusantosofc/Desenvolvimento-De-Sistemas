@@ -1,0 +1,20 @@
+body {
+    background-image: url(imagens/fundo_dylan.png); /* Imagem de fundo */
+    background-repeat: no-repeat; /* Impede repetição de imagens */
+    background-color: #c7c7c7;
+    background-attachment: fixed; /* Mantem imagem do fundo fixa */
+    text-align: center;
+    margin-left: 465px;
+    margin-right: 30px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 1.5; /* Espaçamento entre linhas */
+}

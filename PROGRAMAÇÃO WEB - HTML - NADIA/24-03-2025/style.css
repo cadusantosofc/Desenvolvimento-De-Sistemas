@@ -1,0 +1,21 @@
+table, td, tr, th {
+    border: 1px;
+    border-style: solid;
+    width: 500px;
+    height: 25px;
+}
+th {
+    background-color: blue;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center; /*Alinhamento horizontal*/
+    vertical-align: middle; /*Trabalha com alinhamento vertical*/
+}
+
+ .destaque {
+    background-color: black;
+    color: rgb(255, 0, 157);
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}

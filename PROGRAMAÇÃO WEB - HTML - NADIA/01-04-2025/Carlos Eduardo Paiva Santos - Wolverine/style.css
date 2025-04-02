@@ -1,0 +1,46 @@
+body {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(imagens/bg.png);
+}
+
+.class{
+    background-color: white;
+    width: 750px;
+    margin: auto;
+    padding: 25px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table, td, th, tr {
+    text-align: center;
+    margin: auto;
+    border-style: solid;
+    background-color: white;
+    border-width: 1px;
+    vertical-align: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td, th, tr {
+    padding-inline: 10px;
+}
+.amarelo{
+    background-color: yellow;
+    text-align: center;
+}
+h1 {
+    color: #f89500; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagem{
+    vertical-align: bottom;
+    display: block;
+    margin: auto;
+}
+
+.link{
+    text-align: center;
+    }
